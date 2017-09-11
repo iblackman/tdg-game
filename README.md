@@ -3,7 +3,7 @@ Unity 5 game
 
 ## Config
 * Open Unity 5
-* Import package `Mega Fantasy Props Pack` in the asset store
+* Import package `Mega Fantasy Props Pack` in the asset store, [link](https://www.assetstore.unity3d.com/en/#!/content/87811)
 * Import the following standard packages:
   * Character
   * Effects
